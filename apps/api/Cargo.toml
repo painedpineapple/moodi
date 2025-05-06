@@ -1,0 +1,12 @@
+[package]
+name = "moodi-api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.4"
+shuttle-axum = "0.39.0"
+shuttle-runtime = "0.39.0"
+tokio = { version = "1.36.0", features = ["full"] }
+tower = "0.4.13"
+tracing = "0.1.40"

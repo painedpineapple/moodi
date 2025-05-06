@@ -1,0 +1,41 @@
+[
+  {
+    "success": false,
+    "address": "9dH8aUSpNTccTBa42Tzwvvrn8mmm2ED7mrueY6mYWNv9",
+    "error": {
+      "logs": [
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY invoke [1]",
+        "Program log: Instruction: MintToCollectionV1",
+        "Program log: AnchorError caused by account: collection_metadata. Error Code: AccountNotInitialized. Error Number: 3012. Error Message: The program expected this account to be already initialized.",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY consumed 11422 of 200000 compute units",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY failed: custom program error: 0xbc4"
+      ]
+    }
+  },
+  {
+    "success": false,
+    "address": "FRGkJho6fY7XivWsEBjousTaZBT6eUBkkrDyCN4nWcPR",
+    "error": {
+      "logs": [
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY invoke [1]",
+        "Program log: Instruction: MintToCollectionV1",
+        "Program log: AnchorError caused by account: collection_metadata. Error Code: AccountNotInitialized. Error Number: 3012. Error Message: The program expected this account to be already initialized.",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY consumed 11422 of 200000 compute units",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY failed: custom program error: 0xbc4"
+      ]
+    }
+  },
+  {
+    "success": false,
+    "address": "BypJbNiuwWyK2ettdE8mibzxVsVERU6K9Pe4ZBk8Yu1B",
+    "error": {
+      "logs": [
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY invoke [1]",
+        "Program log: Instruction: MintToCollectionV1",
+        "Program log: AnchorError caused by account: collection_metadata. Error Code: AccountNotInitialized. Error Number: 3012. Error Message: The program expected this account to be already initialized.",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY consumed 11422 of 200000 compute units",
+        "Program BGUMAp9Gq7iTEuizy4pqaxsTyUCBK68MDfK752saRPUY failed: custom program error: 0xbc4"
+      ]
+    }
+  }
+]

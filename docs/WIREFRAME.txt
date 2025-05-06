@@ -1,0 +1,170 @@
+Home Screen (Not Connected)
++---------------------------------------------------+
+|                       Moodi                 |
+| +-----------------------------------------------+ |
+| |                    LOGO                       | |
+| |   A prominent and appealing logo of the Mood  | |
+| |   Friend app, centered at the top of the      | |
+| |   screen.                                     | |
+| |                                               | |
+| |            [ Connect Wallet ]                 | |
+| |   A button centered below the logo. When      | |
+| |   clicked, it should initiate the wallet      | |
+| |   connection process. The button should be    | |
+| |   visually distinct and inviting.             | |
+| +-----------------------------------------------+ |
++---------------------------------------------------+
+
+
+Home Screen (Connected)
++---------------------------------------------------+
+| Moodi      | [Settings] [Log Metric] [Charts] |
+| +-----------------------------------------------+ |
+| |                    LOGO                       | |
+| |   The Moodi logo persists at the top,   | |
+| |   similar to the not connected state, but     | |
+| |   smaller to accommodate more elements.       | |
+| |                                               | |
+| |          Welcome, [User's Wallet Address]     | |
+| |   A personalized greeting that displays the  | |
+| |   user's wallet address or a chosen nickname. | |
+| +-----------------------------------------------+ |
+| |  Streak: 7 Days | Next Reward: 5 Tokens       | |
+| |   A display of the user's current streak and  | |
+| |   the upcoming reward. The information should | |
+| |   be concise and encouraging.                 | |
+| +-----------------------------------------------+ |
+| | [ Metric 1 ] [ Metric 2 ] [ Metric 3 ] ...    | |
+| |   Interactive tabs or buttons for each life   | |
+| |   metric that the user is tracking. When      | |
+| |   selected, these should highlight or expand  | |
+| |   to show more information.                   | |
+| |                                               | |
+| |  [Filter: ][Mood][Sleep][Exercise][Medication]| |
+| |   A fixed filter bar at the top of the metric | |
+| |   list that allows the user to control the    | |
+| |   visibility of each metric. The filter       | |
+| |   options should be toggleable.               | |
+| |                                               | |
+| | +------------------+  +------------------+    | |
+| | |  11/02  Mood: 😊  |  |  11/01  Mood: 😐  |    | |
+| | |  A simple graphical representation of the  | |
+| | |  logged mood for the day. Should be easily | |
+| | |  identifiable with a clear emotional icon.  | |
+| | +------------------+  +------------------+    | |
+| | ...                                           | |
+| |   A scrollable list showing a brief overview  | |
+| |   of the user's metrics for each day. Each    | |
+| |   day should be a selectable card.            | |
+| +-----------------------------------------------+ |
++---------------------------------------------------+
+
+
+Settings Page
++---------------------------------------------------+
+| Moodi                                       |
+| [Home] [Log Metric] [Charts]                      |
+| +-----------------------------------------------+ |
+| |                 Settings                      | |
+| |   The settings page header, clearly indicating| |
+| |   the purpose of this screen.                 | |
+| |                                               | |
+| | Connected Wallet: [Wallet Address] [Disconnect]| |
+| |   The section where users can see their       | |
+| |   connected wallet address. A disconnect      | |
+| |   button allows them to unlink the wallet.    | |
+| |                                               | |
+| | Daily Email Reminder: [On/Off]                | |
+| |   A toggle switch to enable or disable daily  | |
+| |   email reminders.                            | |
+| | Time of Day: [Dropdown]                        | |
+| |   A dropdown menu for users to select the     | |
+| |   preferred time of day to receive reminders. | |
+| | Timezone: [Dropdown]                           | |
+| |   Another dropdown to set the user's timezone.| |
+| |                                               | |
+| | [ Save Settings ]                             | |
+| |   A button to save all changes made in the    | |
+| |   settings. It should be clear and accessible.| |
+| |                                               | |
+| |            [ Privacy Policy ]                 | |
+| +-----------------------------------------------+ |
++---------------------------------------------------+
+
+
++---------------------------------------------------+
+| Moodi                                       |
+| [Home] [Settings] [Charts]                        |
+| +-----------------------------------------------+ |
+| |                 Log Daily Metrics             | |
+| |   The header for the logging screen, making   | |
+| |   it clear to users what action they can take | |
+| |   here.                                       | |
+| |                                               | |
+| | Date: [Today] [Yesterday] [Select Date]       | |
+| |   A section for the user to input the date of | |
+| |   the metrics they are logging. 'Today' and   | |
+| |   'Yesterday' should be quick-select options, | |
+| |   with a calendar picker for other dates.     | |
+| |                                               | |
+| | Metrics:                                      | |
+| | [ Mood ] [ Sleep ] [ Exercise ] [ Medication ]| |
+| |   A form with fields for each metric the user | |
+| |   is tracking. Each field should be intuitive | |
+| |   with clear labeling.                        | |
+| |                                               | |
+| | [ Add New Life Metric ]                       | |
+| |   A button or link that prompts the user to   | |
+| |   add a new life metric. This could open a    | |
+| |   modal or navigate to a new screen where the | |
+| |   user can define the new metric. The option  | |
+| |   should be subtle yet easily accessible.     | |
+| |                                               | |
+| | Notes: [Text Area]                            | |
+| |   An area where users can add any additional  | |
+| |   notes about their day. The text area should | |
+| |   be expansive enough to allow for detailed   | |
+| |   entries.                                    | |
+| |                                               | |
+| | [Log Metrics]                                 | |
+| |   A prominent button to submit the log entry. | |
+| |   It should stand out and indicate completion.| |
+| +-----------------------------------------------+ |
++---------------------------------------------------+
+
+
+Charts Screen
++---------------------------------------------------+
+| Moodi                                       |
+| [Home] [Settings] [Log Metric]                    |
+| +-----------------------------------------------+ |
+| |                 Trends & Insights             | |
+| |   A header that clearly labels this screen as | |
+| |   the place to view data trends and insights. | |
+| |                                               | |
+| | Filter: [Mood][Sleep][Exercise][Medication]   | |
+| |   Similar to the home screen, a filter bar to | |
+| |   allow users to select which metrics to view.| |
+| |                                               | |
+| | +-------------------------------------------+ | |
+| | |                                           | | |
+| | |                Dual-Axis Chart            | | |
+| | |   A large, interactive chart that allows  | | |
+| | |   users to see their metric trends over   | | |
+| | |   time. Different metrics should be       | | |
+| | |   distinguishable by color or line style. | | |
+| | +-------------------------------------------+ | |
+| |                                               | |
+| | [Additional Charts and Data Visualization]    | |
+| |   Space for additional charts and insights   | |
+| |   that the user can interact with. This could| |
+| |   include bar graphs, pie charts, etc.       | |
+| +-----------------------------------------------+ |
++---------------------------------------------------+
+
+---
+
+Need a manage life metrics screen that shows list of metrics, ability to create them, delete them, or deactivate them.
+
+There should be a button to this screen from the settings page
+the [ Add New Life Metric ] button on the life metrics screen should be changed to [ Manage Life Metric ] and link to the manage metrics screen

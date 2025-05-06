@@ -1,0 +1,17 @@
+[
+  {
+    "success": true,
+    "address": "9dH8aUSpNTccTBa42Tzwvvrn8mmm2ED7mrueY6mYWNv9",
+    "sig": "3LPqbEu3CJTT9WSxvAwS59mvjpcfYQnjxN3z9URFAgM8z3DxQReW61xDY6qPkJrQ3SP7Xcd4gYwWDGq7NpZfn6xt"
+  },
+  {
+    "success": true,
+    "address": "FRGkJho6fY7XivWsEBjousTaZBT6eUBkkrDyCN4nWcPR",
+    "sig": "NC8kc2Ph6cinaxKoptZ4bZdF6cCjq4VKUpEjEVwrND561Z2RjEJUimVXMA8N6KAPVw6Uk3fhph3eRqfxdsWAooh"
+  },
+  {
+    "success": true,
+    "address": "BypJbNiuwWyK2ettdE8mibzxVsVERU6K9Pe4ZBk8Yu1B",
+    "sig": "w6cJpwAQxFS3941VBeHSiTnxNRvQaMgeaMex3MeBqzoKgo8aBZcSCC3MotrZB4PadWYS5XFifsEPUJm3J1QjFXB"
+  }
+]
